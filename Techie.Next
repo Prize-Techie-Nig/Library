@@ -1,0 +1,10 @@
+//The general format of the Techie.NEXT.PT
+(function(a, b, c){
+
+}(typeof window !== "undefined" ? window : this,
+function(bb){
+
+},
+function(){
+
+}))
